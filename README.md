@@ -1,2 +1,14 @@
 # info-cn-hub
-HTML page archive and documentation
+
+资料页面发布仓库
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 内容结构
+
+- 根目录：HTML 页面文件
+- README：用途与维护说明
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
